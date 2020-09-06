@@ -1,3 +1,4 @@
+//Essa função modifica o conteúdo e dispara um modal, que deve conter as informações correspondentes ao item do diagrama clicado
 function renderizaModalDiagramaKolb(n){
     switch (n){
       case 1:
